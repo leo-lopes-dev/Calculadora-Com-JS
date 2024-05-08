@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+.container{
+    position: absolute;
+    top: 20%;
+    width: 100%;
+}
+h1{
+    font-size: 45px;
+}
+button{
+    padding: 30px; 
+    background-color: orange; 
+    border-radius: 5px;
+    width: 300px;
+    font-size: 20px;
+}
+button:hover{
+    background-color: rgb(178, 116, 0); 
+    cursor: pointer;
+}
+p{
+    font-size: 25px;
+}
